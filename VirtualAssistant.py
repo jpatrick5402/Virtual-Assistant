@@ -41,7 +41,7 @@ def setup():
     term_size = os.get_terminal_size()
 
     print_speak(engine, ">Awaiting commands")
-    print("_" * term_size.columns)
+    print("-" * term_size.columns)
 
 
 def loop():
@@ -70,9 +70,9 @@ def loop():
                     response = requests.post(
                         URL, json=payload, headers=headers)
                     print_speak(engine, response.json()["text"])
-                    print("_" * term_size.columns)
+                    print("-" * term_size.columns)
             except:
-                print("_")
+                print("-")
 
 
 def wrap_up():
