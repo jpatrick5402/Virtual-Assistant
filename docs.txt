@@ -1,4 +1,0 @@
-https://pypi.org/project/pyttsx3/
-https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/
-
-$env:APIKEY="113be4c79cmsh6f86f8b92ecfd08p1ee52fjsn16f27c85a104"
