@@ -1,0 +1,14 @@
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\bin\Debug\net6.0\VirtualAssistant.exe
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\bin\Debug\net6.0\VirtualAssistant.deps.json
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\bin\Debug\net6.0\VirtualAssistant.runtimeconfig.json
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\bin\Debug\net6.0\VirtualAssistant.dll
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\bin\Debug\net6.0\VirtualAssistant.pdb
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.AssemblyInfoInputs.cache
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.AssemblyInfo.cs
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.dll
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\refint\VirtualAssistant.dll
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.pdb
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\VirtualAssistant.genruntimeconfig.cache
+C:\Users\Joseph Patrick\source\repos\VirtualAssistant\VirtualAssistant\obj\Debug\net6.0\ref\VirtualAssistant.dll

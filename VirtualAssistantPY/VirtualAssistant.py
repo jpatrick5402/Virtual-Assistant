@@ -24,8 +24,8 @@ def setup():
     print_speak(engine, ">Code Libraries loaded")
 
     print_speak(engine, ">Setting up environment")
-    global priorinfo
-    priorinfo = json.load(open('prior_info.json', "r"))
+#    global priorinfo
+#    priorinfo = json.load(open('prior_info.json', "r"))
 
     global URL
     URL = "https://chatgpt-api8.p.rapidapi.com/"
@@ -87,7 +87,7 @@ def wrap_up():
 def main():
     setup()
     loop()
-    wrap_up()
+#    wrap_up()
 
 
 if __name__ == "__main__":
