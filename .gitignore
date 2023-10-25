@@ -1,6 +1,3 @@
-VirtualAssistant/docs.txt
-VirtualAssistant/test.py
-VirtualAssistant/ComplexTkinter.py
 VirtualAssistantCS/.vs/ProjectEvaluation/virtualassistant.metadata.v7.bin
 VirtualAssistantCS/.vs/ProjectEvaluation/virtualassistant.projects.v7.bin
 VirtualAssistantCS/.vs/ProjectEvaluation/virtualassistantcs.metadata.v7.bin
@@ -15,5 +12,19 @@ VirtualAssistantCS/VirtualAssistant/obj/project.assets.json
 VirtualAssistantCS/VirtualAssistant/obj/project.nuget.cache
 VirtualAssistantCS/VirtualAssistant/obj/VirtualAssistant.csproj.nuget.dgspec.json
 VirtualAssistantCS/VirtualAssistant/obj/VirtualAssistant.csproj.nuget.g.props
+VirtualAssistantCS/VirtualAssistant/obj/VirtualAssistant.csproj.nuget.g.targets
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/apphost.exe
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.AssemblyInfo.cs
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.AssemblyInfoInputs.cache
 VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.assets.cache
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.csproj.BuildWithSkipAnalyzers
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.csproj.CoreCompileInputs.cache
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.csproj.FileListAbsolute.txt
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.dll
 VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.GeneratedMSBuildEditorConfig.editorconfig
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.genruntimeconfig.cache
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.GlobalUsings.g.cs
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/VirtualAssistant.pdb
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/ref/VirtualAssistant.dll
+VirtualAssistantCS/VirtualAssistant/obj/Debug/net6.0/refint/VirtualAssistant.dll
